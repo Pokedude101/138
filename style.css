@@ -25,4 +25,25 @@ h4{
 
 .modal-dialog{
     width: 90%;
-}   
+}  
+
+.restart{
+    margin-bottom: -20px;
+}
+
+.footer{
+    background-color: red;
+    line-height: 3;
+    margin: 10px;
+    width: 100%;
+
+}
+
+canvas{
+    margin: 40px;
+    border-radius: 3%;
+}
+
+video{
+    margin: 650px;
+}
